@@ -1,4 +1,4 @@
-# Ubuntu 16.04 install script
+# Ubuntu 16.04 install scripts
 Automates the installation of some tools, applications and platforms in Ubuntu 16.04.
 
 ## Usage
